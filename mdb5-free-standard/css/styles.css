@@ -1,0 +1,10 @@
+#intro {
+  background-image: url("../img/cafe-header.jpg");
+  height: 400px;
+}
+
+@media (min-width: 576px) {
+  #intro {
+    height: 600px;
+  }
+}
