@@ -16,3 +16,9 @@ body {
     height: 600px;
   }
 }
+
+#price {
+  background-image: url("../img/coffee-g0d132bdb7_1920.jpg");
+  height: 300px;
+  background-size: cover;
+}
